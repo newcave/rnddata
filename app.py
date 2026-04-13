@@ -94,7 +94,7 @@ with st.sidebar:
         st.markdown(
             f'<div style="text-align:center;padding:16px 12px 6px 12px;">'
             f'<img src="data:image/jpeg;base64,{logo_b64}" '
-            f'style="width:82%;max-width:170px;border-radius:50%;'
+            f'style="width:82%;max-width:170px;border-radius:8px;'
             f'box-shadow:0 0 0 3px rgba(255,255,255,0.25);" />'
             f'</div>',
             unsafe_allow_html=True,
@@ -109,7 +109,7 @@ with st.sidebar:
         '<div style="font-size:0.78rem;opacity:0.75;letter-spacing:0.04em;'
         'text-transform:uppercase;margin-bottom:2px;">Research Institute</div>'
         '<div style="font-size:1.05rem;font-weight:700;letter-spacing:0.01em;">'
-        '💡 AI 연구소</div>'
+        '💡 K-water연구원 R&D 인벤토리</div>'
         '<div style="font-size:0.78rem;opacity:0.7;margin-top:2px;">'
         'Data Inventory Dashboard</div>'
         '</div>',
