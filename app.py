@@ -107,9 +107,9 @@ with st.sidebar:
         'margin:6px 8px 0 8px;'
         '">'
         '<div style="font-size:0.78rem;opacity:0.75;letter-spacing:0.04em;'
-        'text-transform:uppercase;margin-bottom:2px;">Research Institute</div>'
+        'text-transform:uppercase;margin-bottom:2px;">K-water Research Institute</div>'
         '<div style="font-size:1.05rem;font-weight:700;letter-spacing:0.01em;">'
-        '💡 K-water연구원 R&D 인벤토리</div>'
+        '💡 연구원 R&D 인벤토리</div>'
         '<div style="font-size:0.78rem;opacity:0.7;margin-top:2px;">'
         'Data Inventory Dashboard</div>'
         '</div>',
