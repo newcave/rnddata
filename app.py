@@ -88,7 +88,7 @@ st.markdown("""
 # ── Sidebar nav ────────────────────────────────────────────────────────────────
 with st.sidebar:
     # ── Logo block ──────────────────────────────────────────────────────────
-    logo_path = Path(__file__).parent / "logo_kwater_og.png" #"AI_Lab_logo.jpg"
+    logo_path = Path(__file__).parent / "kw_logo.png" #"AI_Lab_logo.jpg"
     if logo_path.exists():
         logo_b64 = base64.b64encode(logo_path.read_bytes()).decode()
         st.markdown(
